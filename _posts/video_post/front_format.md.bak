@@ -11,3 +11,10 @@ long_novels:
 description: 
 published: false
 ---
+
+<br>
+<video controls>
+    <source src="/assets/media/video/.mp4" type="video/mp4">
+</video>
+
+<br>
