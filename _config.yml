@@ -1,0 +1,27 @@
+# Jekyll configuration
+
+name: 含酱の停车场
+
+# url is currently only used for the RSS feed in feed.xml
+url: https://royal-dollop-head.github.io
+baseurl: ""
+
+## default date_format
+date_format: 
+  title: "%m-%d-%Y"
+  archive: "%m-%d"
+  categories: "%m-%d-%Y"
+  tags: "%m-%d-%Y"
+
+# Language
+lan: "cn" 
+
+paginate: 7
+
+highlighter: rouge
+markdown: kramdown
+gems: ['jekyll-paginate']
+
+exclude: ['README.md', 'LICENSE', "*.bak"]
+
+permalink: /:year/:month/:day/:title
