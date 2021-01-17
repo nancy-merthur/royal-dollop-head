@@ -235,5 +235,5 @@ END.
 
 <br><br>
 ![](/assets/media/image/20200708.jpg)
-<br>
+<br><br>
 ![](/assets/media/image/20200607-hp-au.jpg)

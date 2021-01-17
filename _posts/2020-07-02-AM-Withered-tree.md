@@ -430,13 +430,13 @@ END
 
 <br><br>
 ![](/assets/media/image/20200630-arthur.jpg)
-<br>
+<br><br>
 ![](/assets/media/image/20200630-merlin.jpg)
-<br>
+<br><br>
 ![](/assets/media/image/20200630-gwaine.jpg)
-<br>
+<br><br>
 ![](/assets/media/image/20200630-lance.jpg)
-<br>
+<br><br>
 ![](/assets/media/image/20200630-gwen.jpg)
-<br>
+<br><br>
 ![](/assets/media/image/20200630-morgana.jpg)

@@ -1563,7 +1563,7 @@ END
 
 <br><br>
 ![](/assets/media/image/20201225-gwaincelot.jpg)
-<br>
+<br><br>
 ![](/assets/media/image/20201225-merthur.jpg)
-<br>
+<br><br>
 ![](/assets/media/image/20201225-morgana-mithian.jpg)

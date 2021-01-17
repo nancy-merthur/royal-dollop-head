@@ -2276,5 +2276,5 @@ END
 
 <br><br>
 ![](/assets/media/image/20201129-gwaincelot.jpg)
-<br>
+<br><br>
 ![](/assets/media/image/20201129-merthur.jpg)

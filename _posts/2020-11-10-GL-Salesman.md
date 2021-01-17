@@ -624,5 +624,5 @@ END
 
 <br><br>
 ![](/assets/media/image/20201110-1.jpg)
-<br>
+<br><br>
 ![](/assets/media/image/20201110-2.jpg)
