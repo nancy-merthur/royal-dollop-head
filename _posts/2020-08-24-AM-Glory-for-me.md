@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Merlin】Glory for me（NC17MAM警告有配图一发完结）
+title: 【梅瑟】Glory for me（NC17MAM警告有配图一发完结）
 date: 2020-08-24 20:31
 categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur", "Gwaine", "Lancelot"]
