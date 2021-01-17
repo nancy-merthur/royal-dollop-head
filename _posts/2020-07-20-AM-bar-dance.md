@@ -4,7 +4,7 @@ title: 【亚梅】酒馆小夜曲（NC17PWP车门焊死AM肉有配图）
 date: 2020-07-20 00:28
 categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur"]
-tags: ["Merlin/Arthur", "亚梅", "NC-17"]
+tags: ["Merlin/Arthur", "亚梅", "成人级（NC-17）"]
 origin: 随缘
 description: 标题是现起的，PWP要什么标题\_(:з」∠)\_主要是想让梅林跳大腿舞嘿嘿嘿
 published: true

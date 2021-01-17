@@ -4,7 +4,7 @@ title: 【亚梅】The Flame Of Desire欲望之火（nc17亚梅PWP肉，纯肉�
 date: 202-06-12 20:30
 categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur"]
-tags: ["Merlin/Arthur", "亚梅", "NC-17"]
+tags: ["Merlin/Arthur", "亚梅", "成人级（NC-17）"]
 origin: 随缘
 description: 设定二十世纪初期，神父阿瑟巫师梅林，不过设定是狗屎，PWP是真！就是想让Merlin勾引阿瑟并且叫爸爸(神父也是爸爸诶嘿嘿)
 published: true

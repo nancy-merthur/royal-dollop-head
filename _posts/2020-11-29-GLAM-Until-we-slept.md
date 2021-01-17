@@ -4,7 +4,7 @@ title: 【高兰/亚梅】Until we slept（现代AU,情敌变情人梗完结）
 date: 2020-11-29 00:30
 categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur", "Gwaine", "Lancelot"]
-tags: ["Merlin/Arthur", "亚梅", "Gwaine/Lancelot", "高兰", "NC-17"]
+tags: ["Merlin/Arthur", "亚梅", "Gwaine/Lancelot", "高兰", "成人级（NC-17）"]
 origin: 随缘
 description: 名字起了好些个：恋爱法则/日久生情/I know you too well/缘分天注定/what makes you choose me?最后还是选择了一目了然的标题【直到我们睡了】 现代AU,情敌变情人梗，狗血就完事了 基佬扎堆注意！
 published: true
