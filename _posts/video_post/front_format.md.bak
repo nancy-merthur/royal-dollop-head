@@ -6,14 +6,8 @@ categories:
 characters: 
 tags: 
 origin: 
-long_novels: 
 description: 
 published: true
 ---
 
-<br>
-<video controls>
-    <source src="{{ site.baseurl }}/assets/media/video/.mp4" type="video/mp4">
-</video>
-
-<br>
+这里直接放油管嵌入链接

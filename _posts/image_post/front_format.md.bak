@@ -6,10 +6,9 @@ categories:
 characters: 
 tags: 
 origin: 
-long_novels: 
 description: 
 published: true
 ---
 
 <br>
-![]({{ site.baseurl }}/assets/media/image/.jpg)
+![]({{ site.baseurl }}/assets/media/image/这里放图片的文件名.jpg)
