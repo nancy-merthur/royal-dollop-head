@@ -3,8 +3,8 @@
 name: 含酱の停车场
 
 # url is currently only used for the RSS feed in feed.xml
-url: https://nancy-merthur.github.io/royal-dollop-head
-baseurl: ""
+url: https://nancy-merthur.github.io
+baseurl: "/royal-dollop-head"
 
 ## default date_format
 date_format: 
