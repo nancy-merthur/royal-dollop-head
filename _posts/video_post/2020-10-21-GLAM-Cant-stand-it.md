@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【高兰/亚梅】Can't stand it
+title: 【高兰/亚梅】Can't stand it（视频）
 date: 2020-10-21
 categories: ["梅林传奇", "视频"]
 characters: ["Arthur", "Merlin", "Gwaine", "Lancelot"]
