@@ -703,3 +703,6 @@ published: true
 <br>
 
 END
+
+<br><br>
+![](/assets/media/image/20200720.jpg)
