@@ -4,7 +4,7 @@ title: 【Merlin】赤裸男孩 Naked Boy（短一发完有配图）
 date: 2020-08-30 21:50
 categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur", "Gwaine", "Lancelot"]
-tags: ["Merlin/Arthur", "Gwaine/Lancelot", "G"]
+tags: ["Merlin/Arthur", "梅瑟", "Gwaine/Lancelot", "高兰", "G"]
 origin: 随缘
 description: 设定：双黑化，阿瑟就不是个好人！痛恨德鲁伊的冷血国王亚瑟！和被族人贡献的祭品梅林！本来是个超长脑洞，文笔废只能压缩再压缩～<br>
 警告：强制爱(?)，非自愿性爱，重点角色死亡<br>
