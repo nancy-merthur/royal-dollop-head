@@ -1,0 +1,15 @@
+---
+layout: post
+title: 【亚梅】In The End
+date: 2020-10-09
+categories: ["梅林传奇", "视频"]
+characters: ["Arthur", "Merlin"]
+tags: ["Arthur/Merlin", "亚梅", "视频"]
+origin: Youtube
+description: 
+published: true
+---
+
+It's my destiny.
+
+<iframe width="1183" height="521" src="https://www.youtube.com/embed/HyG4CfqjOnI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
