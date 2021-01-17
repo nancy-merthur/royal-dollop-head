@@ -253,4 +253,4 @@ PS:别问为啥阿瑟对梅林不一样，问就是真爱！
 PPS:题目改叫《恋爱暴君》也很合适怎么回事(；′Д｀)
 
 <br><br>
-![](/assets/media/image/20200830.jpg)
+![]({{site.baseurl}}/assets/media/image/20200830.jpg)

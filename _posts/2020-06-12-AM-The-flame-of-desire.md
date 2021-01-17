@@ -421,6 +421,6 @@ Merlin已经在地狱给阿瑟开好单人包间啦哦吼吼吼！
 还有，写肉一点都不卡文....正经东西写不出，但是肉就如行云流水一般唉，可能是基微看得多的缘故吧_(:з」∠)_
 
 <br><br>
-![](/assets/media/image/20200608.jpg)
+![]({{site.baseurl}}/assets/media/image/20200608.jpg)
 <br><br>
-![](/assets/media/image/20200613.jpg)
+![]({{site.baseurl}}/assets/media/image/20200613.jpg)

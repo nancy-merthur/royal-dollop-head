@@ -234,6 +234,6 @@ published: true
 END.
 
 <br><br>
-![](/assets/media/image/20200708.jpg)
+![]({{site.baseurl}}/assets/media/image/20200708.jpg)
 <br><br>
-![](/assets/media/image/20200607-hp-au.jpg)
+![]({{site.baseurl}}/assets/media/image/20200607-hp-au.jpg)

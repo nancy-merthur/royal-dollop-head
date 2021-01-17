@@ -1011,7 +1011,7 @@ Merlin的眼神恶狠狠的瞪过来，行吧，看来如果Lancelot卖了Aithus
 “没问题船长！”Merlin笑起来，眼睛眯成一条弯弯的缝。
 
 <br><br>
-![](/assets/media/image/20200923-1.jpg)
+![]({{site.baseurl}}/assets/media/image/20200923-1.jpg)
 
 这本又是一个普通的一天，Percival起床，吃早饭，和船员们在甲板随意交谈了一会儿，又去轮机甲板检测一切是否安好。
 
@@ -1650,7 +1650,7 @@ Arthur摩挲着自己的下巴，“如果他们得到了圣杯，就会企图�
 “是的，但是这个孩子…”Merlin看了一眼地上的男孩，“他好像有很重要的事要和我说”
 
 <br><br>
-![](/assets/media/image/20200923-2.jpg)
+![]({{site.baseurl}}/assets/media/image/20200923-2.jpg)
 
 Percival受Arthur指示，抱着昏倒的男孩走进医务室，Gwaine一定有什么办法能让他醒过来，并且镇静下来。
 
@@ -2247,7 +2247,7 @@ Lancelot没一会儿也冷静下来了，他没事似的站起来，“干的不
 Gwaine可没有想到对方会这样，他的重心不稳，整个人向后跌倒，摔进Lancelot的怀里。那双夜空般闪烁的黑眼睛看着Gwaine，Gwaine无法闪躲，无法不被吸引。这次明明首先挑逗的人是他，最先忍不住吻过去的人怎么也是他。
 
 <br><br>
-![](/assets/media/image/20201014.jpg)
+![]({{site.baseurl}}/assets/media/image/20201014.jpg)
 
 “Aithusa，你怎么长得这么快？”Merlin抚摸着白龙的下巴，这条龙已经长得和一匹小马一样大，很快这座飞船就容不下Aithusa到处闲逛了。
 

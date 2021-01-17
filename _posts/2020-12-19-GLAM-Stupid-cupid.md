@@ -11,13 +11,13 @@ published: true
 ---
 
 <br>
-![](/assets/media/image/20201219-gwaine.jpg)
+![]({{site.baseurl}}/assets/media/image/20201219-gwaine.jpg)
 <br><br>
-![](/assets/media/image/20201219-lance.jpg)
+![]({{site.baseurl}}/assets/media/image/20201219-lance.jpg)
 <br><br>
-![](/assets/media/image/20201219-arthur.jpg)
+![]({{site.baseurl}}/assets/media/image/20201219-arthur.jpg)
 <br><br>
-![](/assets/media/image/20201219-merlin.jpg)
+![]({{site.baseurl}}/assets/media/image/20201219-merlin.jpg)
 
 1.
 

@@ -2275,6 +2275,6 @@ published: true
 END
 
 <br><br>
-![](/assets/media/image/20201129-gwaincelot.jpg)
+![]({{site.baseurl}}/assets/media/image/20201129-gwaincelot.jpg)
 <br><br>
-![](/assets/media/image/20201129-merthur.jpg)
+![]({{site.baseurl}}/assets/media/image/20201129-merthur.jpg)

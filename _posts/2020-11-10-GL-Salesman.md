@@ -623,6 +623,6 @@ Pub的后门突然打开了，走出一位穿着白衬衣的金发男性，鬓�
 END
 
 <br><br>
-![](/assets/media/image/20201110-1.jpg)
+![]({{site.baseurl}}/assets/media/image/20201110-1.jpg)
 <br><br>
-![](/assets/media/image/20201110-2.jpg)
+![]({{site.baseurl}}/assets/media/image/20201110-2.jpg)

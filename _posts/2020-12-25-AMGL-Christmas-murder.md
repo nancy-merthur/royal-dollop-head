@@ -1562,8 +1562,8 @@ Lancelot像看神经病一样的看他，还伸手去摸模他的额头…
 END
 
 <br><br>
-![](/assets/media/image/20201225-gwaincelot.jpg)
+![]({{site.baseurl}}/assets/media/image/20201225-gwaincelot.jpg)
 <br><br>
-![](/assets/media/image/20201225-merthur.jpg)
+![]({{site.baseurl}}/assets/media/image/20201225-merthur.jpg)
 <br><br>
-![](/assets/media/image/20201225-morgana-mithian.jpg)
+![]({{site.baseurl}}/assets/media/image/20201225-morgana-mithian.jpg)

@@ -968,6 +968,6 @@ FIN.
 果然正经剧情不会写，废话写的可多了_(:з)∠)_
 
 <br><br>
-![](/assets/media/image/20200423-1.jpg)
+![]({{site.baseurl}}/assets/media/image/20200423-1.jpg)
 <br><br>
-![](/assets/media/image/20200423-2.jpg)
+![]({{site.baseurl}}/assets/media/image/20200423-2.jpg)

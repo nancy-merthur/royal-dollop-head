@@ -429,14 +429,14 @@ END
 然后说道中筒袜……解锁新性癖\~yeah……我就想象了一下中年阿瑟西装和中筒袜的样子，啊，西装太香了
 
 <br><br>
-![](/assets/media/image/20200630-arthur.jpg)
+![]({{site.baseurl}}/assets/media/image/20200630-arthur.jpg)
 <br><br>
-![](/assets/media/image/20200630-merlin.jpg)
+![]({{site.baseurl}}/assets/media/image/20200630-merlin.jpg)
 <br><br>
-![](/assets/media/image/20200630-gwaine.jpg)
+![]({{site.baseurl}}/assets/media/image/20200630-gwaine.jpg)
 <br><br>
-![](/assets/media/image/20200630-lance.jpg)
+![]({{site.baseurl}}/assets/media/image/20200630-lance.jpg)
 <br><br>
-![](/assets/media/image/20200630-gwen.jpg)
+![]({{site.baseurl}}/assets/media/image/20200630-gwen.jpg)
 <br><br>
-![](/assets/media/image/20200630-morgana.jpg)
+![]({{site.baseurl}}/assets/media/image/20200630-morgana.jpg)

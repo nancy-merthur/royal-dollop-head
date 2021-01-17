@@ -26,7 +26,7 @@ published: true
 
 倒是想写无限流恐怖风，但是吧....文笔不行，我就尽量把脑洞写出来
 <br><br>
-![](/assets/media/image/20200611.jpg)
+![]({{site.baseurl}}/assets/media/image/20200611.jpg)
 
 1.
 

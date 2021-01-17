@@ -383,4 +383,4 @@ published: true
 END
 
 <br><br>
-![](/assets/media/image/20200714.jpg)
+![]({{site.baseurl}}/assets/media/image/20200714.jpg)

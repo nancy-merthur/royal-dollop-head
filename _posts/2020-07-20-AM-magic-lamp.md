@@ -705,4 +705,4 @@ published: true
 END
 
 <br><br>
-![](/assets/media/image/20200720.jpg)
+![]({{site.baseurl}}/assets/media/image/20200720.jpg)

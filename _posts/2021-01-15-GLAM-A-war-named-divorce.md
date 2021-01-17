@@ -11,7 +11,7 @@ published: true
 ---
 
 <br>
-![](/assets/media/image/20210115.jpg)
+![]({{site.baseurl}}/assets/media/image/20210115.jpg)
 
 <br>
 
