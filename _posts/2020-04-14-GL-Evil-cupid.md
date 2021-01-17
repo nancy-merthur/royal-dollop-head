@@ -6,8 +6,7 @@ categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur", "Gwaine", "Lancelot"]
 tags: ["Merlin/Arthur", "亚梅", "Gwaine/Lancelot", "高兰", "全年龄（G）"]
 origin: 随缘
-description: 红娘恶魔，然而这是魔法世界，啥都有可能。<br>
-Gwaine/Lancelot，Arthur/Merlin，双暗恋嘿嘿，文笔不好，平时微博也只会哈哈哈草草草我可以我好了的，读起来感觉会是小学生作文，我真的自己都读着别扭，然后尽量的去把文中的逻辑理清，但是还是BUG百出！太饿了只能割腿肉，冷西皮太惨了也
+description: 红娘恶魔，然而这是魔法世界，啥都有可能。<br>Gwaine/Lancelot，Arthur/Merlin，双暗恋嘿嘿，文笔不好，平时微博也只会哈哈哈草草草我可以我好了的，读起来感觉会是小学生作文，我真的自己都读着别扭，然后尽量的去把文中的逻辑理清，但是还是BUG百出！太饿了只能割腿肉，冷西皮太惨了也
 published: true
 ---
 
