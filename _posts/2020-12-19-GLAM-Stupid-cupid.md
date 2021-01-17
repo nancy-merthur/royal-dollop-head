@@ -10,7 +10,7 @@ description: 灵感源于@Amerland的脑洞，我改了一些设定，想试着�
 published: true
 ---
 
-<br><br>
+<br>
 ![](/assets/media/image/20201219-gwaine.jpg)
 <br>
 ![](/assets/media/image/20201219-lance.jpg)
