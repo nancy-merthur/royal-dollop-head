@@ -11,8 +11,8 @@ published: true
 ---
 
 a small love story that totally with out magic
-<br>
-<iframe width="1183" height="521" src="https://www.youtube.com/embed/4rz9g3FMWaY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="720" height="540" src="https://www.youtube.com/embed/4rz9g3FMWaY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
