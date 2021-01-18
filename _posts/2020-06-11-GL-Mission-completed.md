@@ -6,7 +6,7 @@ categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur", "Gwaine", "Lancelot"]
 tags: ["Merlin/Arthur", "亚梅", "Gwaine/Lancelot", "高兰", "全年龄（G）"]
 origin: 随缘
-description: 夜班医生/刑警 AU<br>那一天，高汶走进了电梯<br>那一夜，有什么东西不一样了<br>从此生活多姿多彩XDD
+description: ["夜班医生/刑警 AU<br>那一天，高汶走进了电梯<br>那一夜，有什么东西不一样了<br>从此生活多姿多彩XDD"]
 published: true
 ---
 

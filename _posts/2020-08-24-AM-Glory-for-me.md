@@ -6,7 +6,7 @@ categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur", "Gwaine", "Lancelot"]
 tags: ["Merlin/Arthur", "梅瑟", "Gwaine/Lancelot", "高兰", "成人级（NC-17）"]
 origin: 随缘
-description: 梅林一直知道城堡里有一个gloryhole，这天他准备去爽一发
+description: ["梅林一直知道城堡里有一个gloryhole，这天他准备去爽一发"]
 published: true
 ---
 

@@ -6,7 +6,7 @@ categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur"]
 tags: ["Merlin/Arthur", "亚梅", "全年龄（G）"]
 origin: 随缘
-description: 年下狮院阿瑟&年上鹰院梅林，年下挺香的嘿嘿，甜甜的小短文一发～这回不黄！这回真的不黄！今儿走的是纯爱路线！没错，颜色搞够了，该上甜品啦～
+description: ["年下狮院阿瑟&年上鹰院梅林，年下挺香的嘿嘿，甜甜的小短文一发～这回不黄！这回真的不黄！今儿走的是纯爱路线！没错，颜色搞够了，该上甜品啦～"]
 published: true
 ---
 

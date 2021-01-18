@@ -6,7 +6,7 @@ categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur", "Gwaine", "Lancelot"]
 tags: ["Merlin/Arthur", "亚梅", "Gwaine/Lancelot", "高兰", "成人级（NC-17）"]
 origin: 随缘
-description: 科总生贺的贺文是梅子被一顿爆炒可还行..文都写完了还没起好名字，正好刚刚脑子里莫名都是rain on me的副歌，于是标题愉快的定了cum on me (*′∀｀)
+description: ["科总生贺的贺文是梅子被一顿爆炒可还行..文都写完了还没起好名字，正好刚刚脑子里莫名都是rain on me的副歌，于是标题愉快的定了cum on me (*′∀｀)"]
 published: true
 ---
 

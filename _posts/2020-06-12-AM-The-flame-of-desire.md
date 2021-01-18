@@ -6,7 +6,7 @@ categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur"]
 tags: ["Merlin/Arthur", "亚梅", "成人级（NC-17）"]
 origin: 随缘
-description: 设定二十世纪初期，神父阿瑟巫师梅林，不过设定是狗屎，PWP是真！就是想让Merlin勾引阿瑟并且叫爸爸(神父也是爸爸诶嘿嘿)
+description: ["设定二十世纪初期，神父阿瑟巫师梅林，不过设定是狗屎，PWP是真！就是想让Merlin勾引阿瑟并且叫爸爸(神父也是爸爸诶嘿嘿)"]
 published: true
 ---
 
