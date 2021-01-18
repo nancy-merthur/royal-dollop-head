@@ -1,3 +1,15 @@
+---
+layout: post
+title: 【高兰】杀死吾爱
+date: 2021-01-18 18:50
+categories: ["梅林传奇"]
+characters: ["Gwaine", "Lancelot"]
+tags: ["Gwaincelot", "高兰"]
+origin: 
+description:
+published: true
+---
+
 杀死吾爱
 Kill My Darling
 
