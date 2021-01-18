@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【亚梅】Withered tree(王男AU设定亚梅PWP一发完有配图）
+title: 【亚梅】Withered tree（王男AU设定亚梅PWP一发完有配图）
 date: 2020-07-02 21:01
 categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur"]

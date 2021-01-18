@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【高兰】Mission Completed(主高兰，亚梅副西皮，TBC）
+title: 【高兰】Mission Completed（主高兰，亚梅副西皮，TBC）
 date: 2020-06-11 04:35
 categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur", "Gwaine", "Lancelot"]
