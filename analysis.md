@@ -4,7 +4,7 @@ title: 统计
 ---
 <div class="well article">
     <a id="{{ category-analysis }}" style="position: relative; top: -50px"></a>
-    <h2>圈子</h2>
+    <h2>分类</h2>
     <!-- Find the max category count -->
     {% assign sorted_categories = site.categories | sort %}
     {% assign max_category_count = 0 %}
@@ -22,7 +22,7 @@ title: 统计
             {% endif %}
         {% endfor %}
     {% endfor %}
-    <span><b>圈子个数：{{ site.categories | size }}</b></span>
+    <span><b>分类个数：{{ site.categories | size }}</b></span>
 </div>
 
 <div class="well article">
