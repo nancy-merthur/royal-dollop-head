@@ -10,4 +10,5 @@ description:
 published: true
 ---
 
-<iframe src="//player.bilibili.com/player.html?aid=2108210&bvid=BV1Cs411S748&cid=3270783&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<br>
+<iframe width="100%" src="//player.bilibili.com/player.html?aid=2108210&bvid=BV1Cs411S748&cid=3270783&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

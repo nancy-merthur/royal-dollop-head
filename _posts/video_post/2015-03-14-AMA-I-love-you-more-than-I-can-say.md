@@ -11,5 +11,5 @@ published: true
 ---
 
 必须哒爱你在心口难开\~
-
-<iframe src="//player.bilibili.com/player.html?aid=2108129&bvid=BV1Cs411S7JP&cid=3270703&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<br>
+<iframe width="100%" src="//player.bilibili.com/player.html?aid=2108129&bvid=BV1Cs411S7JP&cid=3270703&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
