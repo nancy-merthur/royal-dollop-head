@@ -12,4 +12,4 @@ published: true
 
 万圣节快乐\~灯神老盖可以满足你三个愿望！
 
-<iframe width="720" height="540" src="https://www.youtube.com/embed/vqmKTyBJSXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="540" src="https://www.youtube.com/embed/vqmKTyBJSXU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow="accelerometer; autoplay;" allowfullscreen></iframe>

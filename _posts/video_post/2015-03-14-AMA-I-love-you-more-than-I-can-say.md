@@ -12,4 +12,4 @@ published: true
 
 必须哒爱你在心口难开\~
 
-<iframe width="720" height="540" src="//player.bilibili.com/player.html?aid=2108129&bvid=BV1Cs411S7JP&cid=3270703&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="720" height="540" src="//player.bilibili.com/player.html?aid=2108129&bvid=BV1Cs411S7JP&cid=3270703&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allow="accelerometer; autoplay;" allowfullscreen="true"> </iframe>
