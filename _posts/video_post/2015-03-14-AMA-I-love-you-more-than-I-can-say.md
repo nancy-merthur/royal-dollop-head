@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【亚梅亚】I love you more than I can say（视频）
-date: 2015-03-14 04:14:08
+date: 2015-03-14 04:14
 categories: ["梅林传奇", "视频"]
 characters: ["Arthur", "Merlin"]
 tags: ["Arthur/Merlin", "亚梅", "视频"]

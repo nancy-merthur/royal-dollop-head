@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【高兰】Give us a little love（视频）
-date: 2020-10-06 13:06:03
+date: 2020-10-06 13:06
 categories: ["梅林传奇", "视频"]
 characters: ["Gwaine", "Lancelot"]
 tags: ["Gwaine/Lancelot", "高兰", "视频"]

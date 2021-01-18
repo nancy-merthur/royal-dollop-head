@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【亚梅亚】I'm not gay（视频）
-date: 2015-03-14 04:27:00
+date: 2015-03-14 04:27
 categories: ["梅林传奇", "视频"]
 characters: ["Arthur", "Merlin"]
 tags: ["Arthur/Merlin", "亚梅", "视频"]
