@@ -4,7 +4,7 @@ title: 【亚梅/微高兰】Cum on me（新年贺文一发完）
 date: 2020-12-31 23:20
 categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur", "Gwaine", "Lancelot"]
-tags: ["Merlin/Arthur", "亚梅", "Gwaine/Lancelot", "高兰", "成人级（NC-17）"]
+tags: ["Merlin/Arthur", "亚梅", "Gwaine/Lancelot", "高兰", "成人级（NC-17）", "图片"]
 origin: 随缘
 description: ["科总生贺的贺文是梅子被一顿爆炒可还行..文都写完了还没起好名字，正好刚刚脑子里莫名都是rain on me的副歌，于是标题愉快的定了cum on me (*′∀｀)"]
 published: true
