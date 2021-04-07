@@ -21,6 +21,58 @@ title: 首页
       {% else %}
         {{ post.description }}
       {% endif %}
+
+      {% unless post.tags == null %}
+      {% assign tags_list = post.tags %}
+      {% if tags_list.first[0] == null %}
+        {% for tag in tags_list %}
+          {% if tag == "图片" %}
+            <br>
+            {% assign images = post.content | split:"<img src=" %}
+            {% for image in images %}
+              {% assign img = image | split:' alt="" />' | first %}
+              {% if img contains site.baseurl %}
+                <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+          {% if tag == "涩图" %}
+            <br>
+            {% assign images = post.content | split:"<img src=" %}
+            {% for image in images %}
+              {% assign img = image | split:' alt="" />' | first %}
+              {% if img contains site.baseurl %}
+                <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down; filter: blur(7px); -webkit-filter: blur(7px);"></a>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+      {% else %}
+        {% for tag in tags_list %}
+          {% if tag[0] == "图片" %}
+            <br>
+            {% assign images = post.content | split:"<img src=" %}
+            {% for image in images %}
+              {% assign img = image | split:' alt="" />' | first %}
+              {% if img contains site.baseurl %}
+                <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+          {% if tag[0] == "涩图" %}
+            <br>
+            {% assign images = post.content | split:"<img src=" %}
+            {% for image in images %}
+              {% assign img = image | split:' alt="" />' | first %}
+              {% if img contains site.baseurl %}
+                <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down; filter: blur(7px); -webkit-filter: blur(7px);"></a>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      {% assign tags_list = nil %}
+      {% endunless %}
     </div>
     
 </div>
