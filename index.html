@@ -28,9 +28,9 @@ title: 首页
         {% for tag in tags_list %}
           {% if tag == "图片" %}
             <br>
-            {% assign images = post.content | split:"<img src=" %}
+            {% assign images = post.content | split: "<img src=" %}
             {% for image in images %}
-              {% assign img = image | split:' alt="" />' | first %}
+              {% assign img = image | split: ' alt="" />' | first %}
               {% if img contains site.baseurl %}
                 <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
               {% endif %}
@@ -38,11 +38,24 @@ title: 首页
           {% endif %}
           {% if tag == "涩图" %}
             <br>
-            {% assign images = post.content | split:"<img src=" %}
+            {% assign images = post.content | split: "<img src=" %}
             {% for image in images %}
-              {% assign img = image | split:' alt="" />' | first %}
+              {% assign img = image | split: ' alt="" />' | first %}
               {% if img contains site.baseurl %}
                 <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down; filter: blur(7px); -webkit-filter: blur(7px);"></a>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+          {% if tag == "视频" %}
+            <br>
+            {% assign videos = post.content | split: "<iframe " %}
+            {% for video in videos %}
+              {% if video contains "youtube" %}
+                {% assign vid = video | split: "www.youtube.com/embed/" | last %}
+                {% assign vid = vid | split: '"' | first %}
+                {% assign img = "https://img.youtube.com/vi/" | append: vid %}
+                {% assign img = img | append: "/0.jpg" %}
+                <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
               {% endif %}
             {% endfor %}
           {% endif %}
@@ -51,9 +64,9 @@ title: 首页
         {% for tag in tags_list %}
           {% if tag[0] == "图片" %}
             <br>
-            {% assign images = post.content | split:"<img src=" %}
+            {% assign images = post.content | split: "<img src=" %}
             {% for image in images %}
-              {% assign img = image | split:' alt="" />' | first %}
+              {% assign img = image | split: ' alt="" />' | first %}
               {% if img contains site.baseurl %}
                 <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
               {% endif %}
@@ -61,11 +74,24 @@ title: 首页
           {% endif %}
           {% if tag[0] == "涩图" %}
             <br>
-            {% assign images = post.content | split:"<img src=" %}
+            {% assign images = post.content | split: "<img src=" %}
             {% for image in images %}
-              {% assign img = image | split:' alt="" />' | first %}
+              {% assign img = image | split: ' alt="" />' | first %}
               {% if img contains site.baseurl %}
                 <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down; filter: blur(7px); -webkit-filter: blur(7px);"></a>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+          {% if tag[0] == "视频" %}
+            <br>
+            {% assign videos = post.content | split: "<iframe " %}
+            {% for video in videos %}
+              {% if video contains "youtube" %}
+                {% assign vid = video | split: "www.youtube.com/embed/" | last %}
+                {% assign vid = vid | split: '"' | first %}
+                {% assign img = "https://img.youtube.com/vi/" | append: vid %}
+                {% assign img = img | append: "/0.jpg" %}
+                <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
               {% endif %}
             {% endfor %}
           {% endif %}
