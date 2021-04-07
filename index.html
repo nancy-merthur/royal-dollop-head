@@ -57,6 +57,12 @@ title: 首页
                 {% assign img = img | append: "/0.jpg" %}
                 <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
               {% endif %}
+              {% if video contains "bilibili" %}
+              <!--https://api.bilibili.com/x/web-interface/view?bvid=-->
+                {% unless post.thumbnail == null %}
+                  <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ post.thumbnail }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
+                {% endunless %}
+              {% endif %}
             {% endfor %}
           {% endif %}
         {% endfor %}
@@ -92,6 +98,12 @@ title: 首页
                 {% assign img = "https://img.youtube.com/vi/" | append: vid %}
                 {% assign img = img | append: "/0.jpg" %}
                 <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
+              {% endif %}
+              {% if video contains "bilibili" %}
+              <!--https://api.bilibili.com/x/web-interface/view?bvid=-->
+                {% unless post.thumbnail == null %}
+                  <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ post.thumbnail }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
+                {% endunless %}
               {% endif %}
             {% endfor %}
           {% endif %}

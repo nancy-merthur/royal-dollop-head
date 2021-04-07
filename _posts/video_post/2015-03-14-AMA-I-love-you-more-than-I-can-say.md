@@ -8,6 +8,7 @@ tags: ["Arthur/Merlin", "亚梅", "视频"]
 origin: B站
 description: 
 published: true
+thumbnail: http://i2.hdslb.com/bfs/archive/21e89f44107274683895eb87abd883399d24a359.jpg
 ---
 
 必须哒爱你在心口难开\~
