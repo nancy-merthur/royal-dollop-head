@@ -16,7 +16,7 @@ date_format:
 # Language
 lan: "cn" 
 
-paginate: 10
+paginate: 7
 
 highlighter: rouge
 markdown: kramdown
