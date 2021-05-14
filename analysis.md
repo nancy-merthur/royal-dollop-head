@@ -154,6 +154,7 @@ title: 统计
         <li>总文章数：{{ site.posts | size }}</li>
         {% assign total_img_count = 0 %}
         {% for post in site.posts %}
+            <!-- {% if post.tags contains "图片" or post.tags contains "涩图" %} -->
             <!-- {% TODO %} -->
         {% endfor %}
         <li>总图片数：{{ total_img_count }}</li>
