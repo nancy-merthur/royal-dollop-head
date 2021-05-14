@@ -152,6 +152,11 @@ title: 统计
     <h2>总数</h2>
     <ul>
         <li>总文章数：{{ site.posts | size }}</li>
+        {% assign total_img_count = 0 %}
+        {% for post in site.posts %}
+            <!-- {% TODO %} -->
+        {% endfor %}
+        <li>总图片数：{{ total_img_count }}</li>
         {% assign total_word_count = 0 %}
         {% for post in site.posts %}
             {% assign post_word_count = post.content | strip_html | strip_newlines | size %}
