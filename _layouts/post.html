@@ -45,13 +45,13 @@ layout: default
       {% if categories_list.first[0] == null %}
         {% for category in categories_list %} 
             <li class="icon-style">
-                <a href="{{ site.baseurl }}/categories.html#{{ category }}">{{ category }} ({{ site.categories[category].size }})</a>{% unless forloop.last %},{% endunless %}
+                <a href="{{ site.baseurl }}/categories#{{ category }}">{{ category }} ({{ site.categories[category].size }})</a>{% unless forloop.last %},{% endunless %}
             </li>
         {% endfor %}
       {% else %}
         {% for category in categories_list %} 
             <li class="icon-style">
-                <a href="{{ site.baseurl }}/categories.html#{{ category }}">{{ category[0] }} ({{ category[1].size }})</a>{% unless forloop.last %},{% endunless %}
+                <a href="{{ site.baseurl }}/categories#{{ category }}">{{ category[0] }} ({{ category[1].size }})</a>{% unless forloop.last %},{% endunless %}
             </li>
         {% endfor %}
       {% endif %}
@@ -66,13 +66,13 @@ layout: default
       {% if tags_list.first[0] == null %}
         {% for tag in tags_list %} 
             <li class="icon-style">
-                <a href="{{ site.baseurl }}/tags.html#{{ tag }}">{{ tag }} ({{ site.tags[tag].size }})</a>{% unless forloop.last %},{% endunless %}
+                <a href="{{ site.baseurl }}/tags#{{ tag }}">{{ tag }} ({{ site.tags[tag].size }})</a>{% unless forloop.last %},{% endunless %}
             </li>
         {% endfor %}
       {% else %}
         {% for tag in tags_list %} 
             <li class="icon-style">
-                <a href="{{ site.baseurl }}/tags.html#{{ tag }}">{{ tag[0] }} ({{ tag[1].size }})</a>{% unless forloop.last %},{% endunless %}
+                <a href="{{ site.baseurl }}/tags#{{ tag }}">{{ tag[0] }} ({{ tag[1].size }})</a>{% unless forloop.last %},{% endunless %}
             </li>
         {% endfor %}
       {% endif %}
@@ -97,14 +97,14 @@ layout: default
                 {% endfor %}
             {% endfor %}
             <li class="icon-style">
-                <a href="{{ site.baseurl }}/characters.html#{{ character }}">{{ character }} ({{ character_count }})</a>{% unless forloop.last %},{% endunless %}
+                <a href="{{ site.baseurl }}/characters#{{ character }}">{{ character }} ({{ character_count }})</a>{% unless forloop.last %},{% endunless %}
             </li>
             {% assign character_count = 0 %}
         {% endfor %}
       {% else %}
         {% for character in characters_list %}
             <li class="icon-style">
-                <a href="{{ site.baseurl }}/characters.html">{{ character[0] }} ({{ character[1].size }})</a>{% unless forloop.last %},{% endunless %}
+                <a href="{{ site.baseurl }}/characters#{{ character }}">{{ character[0] }} ({{ character[1].size }})</a>{% unless forloop.last %},{% endunless %}
             </li>
         {% endfor %}
       {% endif %}

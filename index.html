@@ -120,7 +120,7 @@ title: 首页
   <div class="col-md-3" style="text-align: left;">
   {% if paginator.previous_page %}
       {% if paginator.previous_page == 1 %}
-        <a class="btn btn-default" href="{{ site.baseurl}}/index.html" class="previous">{{ trans.newer_page }}</a>
+        <a class="btn btn-default" href="{{ site.baseurl}}" class="previous">{{ trans.newer_page }}</a>
       {% else %}
         <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.previous_page }}" class="previous">{{ trans.newer_page }}</a>
       {% endif %}

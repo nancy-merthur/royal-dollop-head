@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 长篇
+title: 图片
 ---
 <!-- Look for the name list of all long-novels -->
 {% assign long_novel_posts = site.posts | where_exp:"post", "post.long_novels != null" %}
