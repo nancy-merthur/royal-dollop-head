@@ -4,7 +4,7 @@ title: 【亚梅】Withered tree（王男AU设定亚梅PWP一发完有配图）
 date: 2020-07-02 21:01
 categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur"]
-tags: ["Merlin/Arthur", "亚梅", "成人级（NC-17）", "图片", "图文", "PWP"]
+tags: ["Merlin/Arthur", "亚梅", "成人级（NC-17）", "涩图", "图文", "PWP"]
 origin: 随缘
 description: ["王男设定，AU，老少配（53岁的亚瑟&27的梅林）PWP当然了。一开始想画一个拿枪的阿瑟，画着画着觉得有点空，加个眼镜边吧，然后在加点皱纹吧，然后在加点缺陷吧，然后脑洞就收不住了………去找了找王男设定的PWP并没找到，所以请叫我割腿肉第一名<br>关于名字，死灰复燃，枯木逢春，中年人的第二春？想了好多名字但最后还是直接的枯木好了_(:з」∠)_"]
 published: true
@@ -429,14 +429,6 @@ END
 然后说道中筒袜……解锁新性癖\~yeah……我就想象了一下中年阿瑟西装和中筒袜的样子，啊，西装太香了
 
 <br><br>
-![]({{site.baseurl}}/assets/media/image/20200630-arthur.jpg)
+![]({{site.baseurl}}/assets/media/image/20200703-1.jpg)
 <br><br>
-![]({{site.baseurl}}/assets/media/image/20200630-merlin.jpg)
-<br><br>
-![]({{site.baseurl}}/assets/media/image/20200630-gwaine.jpg)
-<br><br>
-![]({{site.baseurl}}/assets/media/image/20200630-lance.jpg)
-<br><br>
-![]({{site.baseurl}}/assets/media/image/20200630-gwen.jpg)
-<br><br>
-![]({{site.baseurl}}/assets/media/image/20200630-morgana.jpg)
+![]({{site.baseurl}}/assets/media/image/20200703-2.jpg)
