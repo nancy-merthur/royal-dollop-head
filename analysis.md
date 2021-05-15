@@ -153,6 +153,19 @@ title: 统计
     <ul>
         <li>总文章数：{{ site.posts | size }}</li>
         {% assign total_img_count = 0 %}
+        {% for post in site.posts %}
+        {% unless post.tags == null %}
+            {% if post.tags contains "图片" or post.tags contains "涩图" %}
+                {% assign images = post.content | split: "<img src=" %}
+                {% for image in images %}
+                    {% assign img = image | split: ' alt="" />' | first %}
+                    {% if img contains site.baseurl %}
+                        {% assign total_img_count = total_img_count | plus: 1 %}
+                    {% endif %}
+                {% endfor %}  
+            {% endif %}
+        {% endunless %}
+        {% endfor %}
         <li>总图片数：{{ total_img_count }}</li>
         {% assign total_word_count = 0 %}
         {% for post in site.posts %}
