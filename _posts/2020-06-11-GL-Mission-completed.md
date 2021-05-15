@@ -4,7 +4,7 @@ title: 【高兰】Mission Completed（主高兰，亚梅副西皮，TBC）
 date: 2020-06-11 04:35
 categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur", "Gwaine", "Lancelot"]
-tags: ["Merlin/Arthur", "亚梅", "Gwaine/Lancelot", "高兰", "全年龄（G）"]
+tags: ["Merlin/Arthur", "亚梅", "Gwaine/Lancelot", "高兰", "全年龄（G）", "图片"]
 origin: 随缘
 description: ["夜班医生/刑警 AU<br>那一天，高汶走进了电梯<br>那一夜，有什么东西不一样了<br>从此生活多姿多彩XDD"]
 published: true
@@ -25,8 +25,10 @@ published: true
 从此生活多姿多彩XDD
 
 倒是想写无限流恐怖风，但是吧....文笔不行，我就尽量把脑洞写出来
+
+<br>
+![]({{ site.baseurl }}/assets/media/image/20200611.jpg)
 <br><br>
-![]({{site.baseurl}}/assets/media/image/20200611.jpg)
 
 1.
 
