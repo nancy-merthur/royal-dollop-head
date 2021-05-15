@@ -12,7 +12,6 @@ title: 标签
         {% assign pages_list = category[1] %}
         {% for node in pages_list %}
             {% if node.title != null %}
-            {% if group == null or group == node.group %}
                 <li>
                     <div class="col-md-10" style="margin: 0; padding: 0">
                         <a href="{{ site.baseurl}}{{ node.url }}"> {{ node.title }}</a>
@@ -24,7 +23,6 @@ title: 标签
                         </span>
                     </div>
                 </li>
-            {% endif %}
             {% endif %}
         {% endfor %}
         {% assign pages_list = nil %}
