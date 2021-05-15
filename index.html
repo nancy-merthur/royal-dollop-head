@@ -6,86 +6,86 @@ title: 首页
 {% for post in paginator.posts %}
 <div class="well article">
 
-    <span class="post-date">
-        {% assign date_format = site.date_format.title %}
-        {{ post.date | date: date_format }}
-    </span>
-    
-    <h2>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </h2>
-    
-    <div class="post-description">
-      {% if post.description == null %}
-        {{ post.content | strip_html | strip_newlines | truncate: 150 }}
-      {% else %}
-        {{ post.description }}
-      {% endif %}
+        <span class="post-date">
+                {% assign date_format = site.date_format.title %}
+                {{ post.date | date: date_format }}
+        </span>
+        
+        <h2>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </h2>
+        
+        <div class="post-description">
+            {% if post.description == null %}
+                {{ post.content | strip_html | strip_newlines | truncate: 150 }}
+            {% else %}
+                {{ post.description }}
+            {% endif %}
 
-      {% unless post.tags == null %}
-        {% if post.tags contains "图片" %}
-          <br>
-          {% assign images = post.content | split: "<img src=" %}
-          {% for image in images %}
-            {% assign img = image | split: ' alt="" />' | first %}
-            {% if img contains site.baseurl %}
-              <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-        {% if post.tags contains "涩图" %}
-          <br>
-          {% assign images = post.content | split: "<img src=" %}
-          {% for image in images %}
-            {% assign img = image | split: ' alt="" />' | first %}
-            {% if img contains site.baseurl %}
-              <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down; filter: blur(7px); -webkit-filter: blur(7px);"></a>
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-        {% if post.tags contains "视频" %}
-          <br>
-          {% assign videos = post.content | split: "<iframe " %}
-          {% for video in videos %}
-            {% if video contains "youtube" %}
-              {% assign vid = video | split: "www.youtube.com/embed/" | last %}
-              {% assign vid = vid | split: '"' | first %}
-              {% assign img = "https://img.youtube.com/vi/" | append: vid %}
-              {% assign img = img | append: "/0.jpg" %}
-              <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
-            {% endif %}
-            {% if video contains "bilibili" %}
-            <!--https://api.bilibili.com/x/web-interface/view?bvid=-->
-              {% unless post.thumbnail == null %}
-                <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ post.thumbnail }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
-              {% endunless %}
-            {% endif %}
-          {% endfor %}
-        {% endif %}
-      {% endunless %}
-    </div>
-    
+            {% unless post.tags == null %}
+                {% if post.tags contains "图片" %}
+                    <br>
+                    {% assign images = post.content | split: "<img src=" %}
+                    {% for image in images %}
+                        {% assign img = image | split: ' alt="" />' | first %}
+                        {% if img contains site.baseurl %}
+                            <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
+                {% if post.tags contains "涩图" %}
+                    <br>
+                    {% assign images = post.content | split: "<img src=" %}
+                    {% for image in images %}
+                        {% assign img = image | split: ' alt="" />' | first %}
+                        {% if img contains site.baseurl %}
+                            <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down; filter: blur(7px); -webkit-filter: blur(7px);"></a>
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
+                {% if post.tags contains "视频" %}
+                    <br>
+                    {% assign videos = post.content | split: "<iframe " %}
+                    {% for video in videos %}
+                        {% if video contains "youtube" %}
+                            {% assign vid = video | split: "www.youtube.com/embed/" | last %}
+                            {% assign vid = vid | split: '"' | first %}
+                            {% assign img = "https://img.youtube.com/vi/" | append: vid %}
+                            {% assign img = img | append: "/0.jpg" %}
+                            <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
+                        {% endif %}
+                        {% if video contains "bilibili" %}
+                        <!--https://api.bilibili.com/x/web-interface/view?bvid=-->
+                            {% unless post.thumbnail == null %}
+                                <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ post.thumbnail }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
+                            {% endunless %}
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
+            {% endunless %}
+        </div>
+        
 </div>
 {% endfor %}
 
 <div class="pagination" style="width: 100%;">
-  <div class="col-md-3" style="text-align: left;">
-  {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-        <a class="btn btn-default" href="{{ site.baseurl}}" class="previous">{{ trans.newer_page }}</a>
-      {% else %}
-        <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.previous_page }}" class="previous">{{ trans.newer_page }}</a>
-      {% endif %}
-  {% endif %}
-  </div>
-  
-  <div class="col-md-6" style="text-align: center;">
-  <span class="page_number ">{{ trans.page }}: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  </div>
-  
-  <div class="col-md-3" style="text-align: right;">
-  {% if paginator.next_page %}
-    <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.next_page }}" class="next">{{ trans.older_page }}</a>
-  {% endif %}
-  </div>
+    <div class="col-md-3" style="text-align: left;">
+    {% if paginator.previous_page %}
+            {% if paginator.previous_page == 1 %}
+                <a class="btn btn-default" href="{{ site.baseurl}}" class="previous">{{ trans.newer_page }}</a>
+            {% else %}
+                <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.previous_page }}" class="previous">{{ trans.newer_page }}</a>
+            {% endif %}
+    {% endif %}
+    </div>
+    
+    <div class="col-md-6" style="text-align: center;">
+    <span class="page_number ">{{ trans.page }}: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    </div>
+    
+    <div class="col-md-3" style="text-align: right;">
+    {% if paginator.next_page %}
+        <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.next_page }}" class="next">{{ trans.older_page }}</a>
+    {% endif %}
+    </div>
 </div>
