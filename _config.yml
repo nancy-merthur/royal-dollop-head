@@ -21,6 +21,7 @@ paginate: 7
 highlighter: rouge
 markdown: kramdown
 gems: ['jekyll-paginate']
+google_analytics: G-LT4G7RE5FP
 
 exclude: ['README.md', 'LICENSE', "*.bak"]
 
