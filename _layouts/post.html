@@ -45,13 +45,13 @@ layout: default
       {% if categories_list.first[0] == null %}
         {% for category in categories_list %} 
             <li class="icon-style">
-                <a href="{{ site.baseurl }}/categories#{{ category }}">{{ category }} ({{ site.categories[category].size }})</a>{% unless forloop.last %},{% endunless %}
+                <a href="{{ site.baseurl }}/categories-detail#{{ category }}">{{ category }} ({{ site.categories[category].size }})</a>{% unless forloop.last %},{% endunless %}
             </li>
         {% endfor %}
       {% else %}
         {% for category in categories_list %} 
             <li class="icon-style">
-                <a href="{{ site.baseurl }}/categories#{{ category }}">{{ category[0] }} ({{ category[1].size }})</a>{% unless forloop.last %},{% endunless %}
+                <a href="{{ site.baseurl }}/categories-detail#{{ category }}">{{ category[0] }} ({{ category[1].size }})</a>{% unless forloop.last %},{% endunless %}
             </li>
         {% endfor %}
       {% endif %}
