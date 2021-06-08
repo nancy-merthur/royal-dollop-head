@@ -17,7 +17,7 @@ title: 统计
     {% for i in (1..max_category_count) reversed %}
         {% for category in sorted_categories %}
             {% if category[1].size == i %}
-                <a href="{{ site.baseurl }}/categories.html#{{ category[0] }}">{{ category[0] }} ({{ category[1].size }})</a>
+                <a href="{{ site.baseurl }}/categories-detail#{{ category[0] }}">{{ category[0] }} ({{ category[1].size }})</a>
                 &nbsp;|&nbsp;
             {% endif %}
         {% endfor %}
@@ -40,7 +40,7 @@ title: 统计
     {% for i in (1..max_tag_count) reversed %}
         {% for tag in sorted_tags %}
             {% if tag[1].size == i %}
-                <a href="{{ site.baseurl }}/tags.html#{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a>
+                <a href="{{ site.baseurl }}/tags#{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a>
                 &nbsp;|&nbsp;
             {% endif %}
         {% endfor %}
@@ -85,7 +85,7 @@ title: 统计
     {% for character_count_index in (1..max_character_count) reversed %}
         {% for i in (0..character_num_minus) %}
             {% if character_count_list[i] == character_count_index %}
-                <a href="{{ site.baseurl }}/characters.html#{{ character_list[i] }}">{{ character_list[i] }} ({{ character_count_list[i] }})</a>
+                <a href="{{ site.baseurl }}/characters#{{ character_list[i] }}">{{ character_list[i] }} ({{ character_count_list[i] }})</a>
                 &nbsp;|&nbsp;
             {% endif %}
         {% endfor %}
