@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 分类详情
+title: 分类
 ---
 
 <div class="well article">
