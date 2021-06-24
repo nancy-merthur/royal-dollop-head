@@ -3,7 +3,7 @@
 /* main theme */
 $main-color: #fe9808 !default;
 $second-color: #757575 !default;
-$third-color: #1b1b1b !default;
+$third-color: #363636 !default;
 
 $link-color-1: #c6c6c6 !default;
 
@@ -14,10 +14,10 @@ $side-bar-a-color: $main-color;
 $side-bar-a-hover-color: $main-color;
 
 /* footer */
-$footer-color: #fff !default;
-$footer-a-color: $second-color;
-$footer-a-hover-color: $link-color-1;
-$footer-background-color: $main-color;
+$footer-color: $main-color;
+$footer-a-color: $link-color-1;
+$footer-a-hover-color: $second-color;
+$footer-background-color: $third-color;
 
 /* article */
 $article-color: $link-color-1;
@@ -26,11 +26,11 @@ $article-a-hover-color: $main-color;
 $article-background-color: $third-color;
 
 /* nav-bar */
-$nav-bar-background-color: $main-color;
-$nav-bar-color: #fff;
+$nav-bar-background-color: $third-color;
+$nav-bar-color: $main-color;
 $nav-bar-open-a-background-color: $second-color;
 $nav-bar-icon-bar: $main-color;
-$nav-bar-brand-color: #fff;
+$nav-bar-brand-color: $main-color;
 $nav-bar-brand-hover-color: $link-color-1;
 
 
