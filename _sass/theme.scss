@@ -88,6 +88,7 @@ body {
 .article {
     font-size: 17px;
     color: $article-color;
+    background-color: $article-background-color;
 }
 
 .article img {
@@ -125,6 +126,15 @@ body {
 
 .wordcount-style {
     font-size: 14px;
+}
+
+.paginate {
+    color: $article-a-color;
+}
+
+.btn {
+    color: #fff;
+    background-color: $footer-background-color;
 }
 
 /* 
