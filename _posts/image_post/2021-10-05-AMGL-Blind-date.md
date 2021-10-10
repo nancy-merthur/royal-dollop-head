@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 【亚梅/高兰】谁要和我相亲呐？（图）
+title: 【亚梅/高兰】谁要和我相亲呐？（聊天记录）
 date: 2021-10-05 17:47
 categories: ["梅林传奇"]
 characters: ["Merlin", "Arthur", "Gwaine", "Lancelot"]
 tags: ["Merlin/Arthur", "亚梅", "Gwaine/Lancelot", "高兰", "小剧场"]
 origin: Lofter、微博
-description: "捡手机文学，富二代被迫相亲的OOC小剧场<br><a href=''><img src='https://nancy-merthur.github.io/royal-dollop-head/assets/media/image/20211005-1.jpg' style='height: 200px; width: auto; object-fit: scale-down;'></a><a href=''><img src='https://nancy-merthur.github.io/royal-dollop-head/assets/media/image/20211005-2.jpg' style='height: 200px; width: auto; object-fit: scale-down;'></a>"
+description: "捡手机文学，富二代被迫相亲的OOC小剧场<br><a href='https://nancy-merthur.github.io/royal-dollop-head/2021/10/05/AMGL-Blind-date'><img src='https://nancy-merthur.github.io/royal-dollop-head/assets/media/image/20211005-1.jpg' style='height: 200px; width: auto; object-fit: scale-down;'></a><a href='https://nancy-merthur.github.io/royal-dollop-head/2021/10/05/AMGL-Blind-date'><img src='https://nancy-merthur.github.io/royal-dollop-head/assets/media/image/20211005-2.jpg' style='height: 200px; width: auto; object-fit: scale-down;'></a>"
 published: true
 ---
 
@@ -167,6 +167,12 @@ published: true
 <br><br>
 ![]({{ site.baseurl }}/assets/media/chat_record/blind-date-78.jpg)
 <br><br>
+
+（全文完）
+
+再也不捡手机了，太累了。体验一次还蛮好玩～
+
+嗯最后老盖被送入医院结果没什么问题他只是在耍大家而已
 
 <br>
 ![]({{ site.baseurl }}/assets/media/image/20211005-1.jpg)
