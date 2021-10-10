@@ -177,7 +177,7 @@ published: true
 <br>
 ![]({{ site.baseurl }}/assets/media/image/20211005-1.jpg)
 <br><br>
-![]({{ site.baseurl }}/assets/media/image/20211005-1.jpg)
+![]({{ site.baseurl }}/assets/media/image/20211005-2.jpg)
 <br><br>
 
 这是配图
