@@ -1,6 +1,7 @@
 # Jekyll configuration
 
 name: 含酱の停车场
+title: 含酱の停车场
 
 # url is currently only used for the RSS feed in feed.xml
 url: https://nancy-merthur.github.io
@@ -20,7 +21,7 @@ paginate: 7
 
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate']
+plugins: ['jekyll-paginate']
 google_analytics: G-LT4G7RE5FP
 
 exclude: ['README.md', 'LICENSE', "*.bak"]
