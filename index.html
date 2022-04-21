@@ -23,16 +23,20 @@ title: 首页
             {% endif %}
 
             {% unless post.tags == null %}
+                <!-- completely show images with "图片" and without "涩图" -->
                 {% if post.tags contains "图片" %}
-                    <br>
-                    {% assign images = post.content | split: "<img src=" %}
-                    {% for image in images %}
-                        {% assign img = image | split: ' alt="" />' | first %}
-                        {% if img contains site.baseurl %}
-                            <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
-                        {% endif %}
-                    {% endfor %}
+                    {% unless post.tags contains "涩图" %}
+                        <br>
+                        {% assign images = post.content | split: "<img src=" %}
+                        {% for image in images %}
+                            {% assign img = image | split: ' alt="" />' | first %}
+                            {% if img contains site.baseurl %}
+                                <a href="{{ site.baseurl }}{{ post.url }}"><img src={{ img }} style="height: 200px; width: auto; object-fit: scale-down;"></a>
+                            {% endif %}
+                        {% endfor %}
+                    {% endunless %}
                 {% endif %}
+                <!-- vaguely show images with "涩图" -->
                 {% if post.tags contains "涩图" %}
                     <br>
                     {% assign images = post.content | split: "<img src=" %}
