@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【KP】Heartstopper+HP AU
+title: "【KP】Heartstopper+HP AU"
 date: 2022-08-28 18:01
 categories: ["黑帮少爷爱上我"]
 characters: ["Kinn", "Porsche"]
