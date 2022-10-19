@@ -23,8 +23,8 @@ title: 首页
             {% endif %}
 
             {% unless post.tags == null %}
-                <!-- completely show images with "图片" and without "涩图" -->
-                {% if post.tags contains "图片" %}
+                <!-- completely show images with "图片"/"配图" and without "涩图" -->
+                {% if post.tags contains "图片" or post.tags contains "配图" %}
                     {% unless post.tags contains "涩图" %}
                         <br>
                         {% assign images = post.content | split: "<img src=" %}
